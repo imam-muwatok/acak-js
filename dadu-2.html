@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game dadu</title>
+</head>
+<body>
+    <button onclick="dadu()">klik</button>
+    <p id="hasil1">game dadu</p>
+    <p id="hasil2">game dadu</p>
+    
+    <script>
+        function dadu() {
+            var angka = "123456"
+            var acak = Math.floor(Math.random()*angka.length + 1)
+            var acak2 = Math.floor(Math.random()*angka.length + 1)
+            var jumlah = angka.length
+            document.getElementById("hasil1").innerHTML = acak;
+            document.getElementById("hasil2").innerHTML = acak2;
+        }
+    </script>
+</body>
+</html>
