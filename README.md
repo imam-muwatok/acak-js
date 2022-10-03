@@ -1,5 +1,7 @@
 # acak-js
 
+repo : https://github.com/imam-muwatok/acak-js
+
 url :
 
 https://imam-muwatok.github.io/acak-js/dadu.html
