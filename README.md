@@ -14,6 +14,10 @@ https://imam-muwatok.github.io/acak-js/acak-huruf-hijaiyah.html
 
 https://imam-muwatok.github.io/acak-js/acak-aksara-jawa.html
 
+https://imam-muwatok.github.io/acak-js/acak-angka-1-20.html
+
+
+
 
 
 
